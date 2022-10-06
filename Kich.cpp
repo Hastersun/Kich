@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstdio>
 using namespace std; 
 
 char CodeSpace[10000],WorkSpace[114514];
