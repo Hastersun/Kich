@@ -41,13 +41,28 @@ g becomes putchar(*p);
 k becomes *p = getchar();
 
 { becomes while (*p) {
-
 } becomes      }
+ 
 ---
 ### How to compile Kich?
  Very ease.
  #### Minimum configure
  ---
- CPU: 2 core
+ CPU: 4 core
  RAM:4gb
+ If your configure is lower than this , then you computer can not to compile the code.
  
+ ---
+ #### Steps
+ ---
+ ##### Step 01: Get the source code
+ Get the code from github to your computer.
+ 
+ #### Step 02: Edit the code 
+ Edit the source code to what you want.
+ 
+ #### Step 03:Compile the code 
+ Ok. Now we have the code , you only need to compile it to use.The best compiler for Kich is the MinGW GCC.
+ 
+ #### Step 04:Finish!!!
+ Now you get your Brainfuck based dialects.
