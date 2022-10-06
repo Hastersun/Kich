@@ -43,3 +43,11 @@ k becomes *p = getchar();
 { becomes while (*p) {
 
 } becomes      }
+---
+### How to compile Kich?
+ Very ease.
+ #### Minimum configure
+ ---
+ CPU: 2 core
+ RAM:4gb
+ 
